@@ -28,7 +28,7 @@ Thanks a lot :)
 @article{li2025nrseg,
   title={NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models},
   author={Siyu Li and Fei Teng and Yihong Cao and Kailun Yang and Zhiyong Li and Yaonan Wang},
-  journal={arXiv preprint arXiv:2507.xxxxx},
+  journal={arXiv preprint arXiv:2507.04002},
   year={2025}
 }
 ```
