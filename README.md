@@ -1,7 +1,7 @@
 # NRSeg
 
 ### NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models
-Siyu Li, Fei Teng, Yihong Cao, [Kailun Yang](https://yangkailun.com/)†, [Zhiyong Li](http://robotics.hnu.edu.cn/info/1071/1515.htm)†, Yaonan Wang.
+Siyu Li*, Fei Teng*, Yihong Cao, [Kailun Yang](https://yangkailun.com/)†, [Zhiyong Li](http://robotics.hnu.edu.cn/info/1071/1515.htm)†, Yaonan Wang.
 
 ## Motivation
 <div align=center>
