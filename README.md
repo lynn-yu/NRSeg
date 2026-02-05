@@ -29,6 +29,7 @@ The generation of projection masks for the nuScenes dataset is divided into two 
 
 ```bash
 python get_nusc_road_mask.py
+```
 
 ```bash
 python get_nux_car_mask.py
