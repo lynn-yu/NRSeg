@@ -29,13 +29,17 @@ This work not only requires the nuScenes dataset, but also utilizes the syntheti
 Regarding the perspective mask, in this work, the [SAN](https://github.com/MendelXu/SAN) and [Mask2Former](https://github.com/MendelXu/SAN) pre-training models were employed to generate it.
 
 The mask generation process of SAN runs the following code:
+
 python predict_sanmask.py 
 
 The mask generation process of Mask2Former runs the following code:
+
 python mask2former_demo/demo_pre.py
 
 Additionally, the generation of projection masks for the nuScenes dataset is divided into two parts. One part is the generation of vehicle masks, and the other part is the generation of road masks.
+
 python get_nusc_road_mask.py
+
 python get_nux_car_mask.py
 
 #### UDA Training
