@@ -1,4 +1,6 @@
-# NRSeg
+<p align="center">
+<h1 align="center"><strong>NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models</strong></h1>
+<h3 align="center">IEEE TIP 2026</h3>
 
 ### NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models [[PDF]](https://arxiv.org/pdf/2507.04002)
 Siyu Li*, Fei Teng*, Yihong Cao, [Kailun Yang](https://yangkailun.com/)†, [Zhiyong Li](http://robotics.hnu.edu.cn/info/1176/2960.htm)†, Yaonan Wang.
